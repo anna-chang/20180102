@@ -1,0 +1,24 @@
+﻿<html>
+<head>
+<title>日本之旅 </title>
+</head>
+<body>
+<a href="index.html"#photo1>九州</a>&nbsp &nbsp &nbsp &nbsp &nbsp
+<a href="index-1.html"#photo2>名古屋</a>&nbsp &nbsp &nbsp &nbsp &nbsp
+<a href="index-2.html"#photo3>京都</a>&nbsp &nbsp &nbsp &nbsp &nbsp
+<a href="index-學習心得.html"#photo4>學習心得</a>&nbsp &nbsp &nbsp &nbsp &nbsp
+<div>
+<video src="京都.mp4" width="1000" height"400" controls />
+</div>
+<div>
+<audio src="京都.mp3" controls />
+</div>
+<a id=photo1>
+<font face="標楷體"><h1>京都</h1></font>
+<font face="標楷體" size="6" p align="left">
+秋高氣爽的日子，也是楓葉開始由綠轉紅的時機，說到賞楓，就不得不提到日本了！位在京都的叡山電鐵，有一條250公尺長的「楓葉隧道」，
+在每年楓葉季的晚間都會進行點燈，在電車穿越隧道時，左右兩側滿滿的夜楓瞬間令人心曠神怡，也是近年逐漸熱門的賞楓景點之一。
+<hr>
+</body>
+</html>
+© 2017 GitHub, Inc.

@@ -1,0 +1,24 @@
+﻿<html>
+<head>
+<title>日本之旅 </title>
+</head>
+<body>
+<a href="index.html"#photo1>九州</a>&nbsp &nbsp &nbsp &nbsp &nbsp
+<a href="index-1.html"#photo2>名古屋</a>&nbsp &nbsp &nbsp &nbsp &nbsp
+<a href="index-2.html"#photo3>京都</a>&nbsp &nbsp &nbsp &nbsp &nbsp
+<a href="index-學習心得.html"#photo4>學習心得</a>&nbsp &nbsp &nbsp &nbsp &nbsp
+<div>
+<video src="九州.mp4" width="1000" height"400" controls />
+</div>
+<div>
+<audio src="九州.mp3" controls />
+</div>
+<a id=photo1>
+<font face="標楷體"><h1>九州</h1></font>
+<font face="標楷體" size="6" p align="left">
+九州最佳代言人KUMAMON 萌熊的彩繪電車，穿梭於熊本市區，滿滿的萌熊部長充斥在車廂的各個角落，光看車廂就萌翻一堆大小朋友了呢！還有限定周邊商品於車站販售，身為萌熊頭號粉絲的你，怎麼能錯過這超可愛的彩繪列車呢？
+<hr>
+
+</body>
+</html>
+© 2017 GitHub, Inc.
